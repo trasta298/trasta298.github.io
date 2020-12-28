@@ -26,7 +26,7 @@ ul {
   flex-direction: column;
   align-items: center;
   width: min(1000px, 95%);
-  margin: 0 auto 50px;
+  margin: 0 auto 80px;
 }
 
 .sub {
@@ -35,9 +35,9 @@ ul {
   border-bottom: solid 3px rgb(193, 209, 212);
 }
 
-.subsub {
-  font-size: 1.8em;
-  margin: 15px 0px 7px;
+.fa-home, .fa-building {
+  font-size: 1.5em;
+  margin: 15px 0px;
 }
 
 .name {
