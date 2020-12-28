@@ -1,7 +1,6 @@
 * {
   margin: 0px;
   padding: 0px;
-
 }
 
 ul {
@@ -84,7 +83,7 @@ ul {
 }
 
 .fa-external-link-alt {
-  color: rgb(0, 174, 255);
+  color: rgb(0, 152, 223);
 }
 
 .logo:hover {
